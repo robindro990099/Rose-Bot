@@ -23,7 +23,7 @@ announcements.
 Alternatively, [find me on telegram](https://t.me/SystemerrorBD)! (Keep all support questions in the support chat, where more people can help you.)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Rose-Bot)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/robindro990099/Rose-Bot)<br>
 There is also a [tutorial video](https://t.me/SystemerrorBD) if you want any help on creating heroku clone.
 [![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://t.me/SystemerrorBD)
 [![telegram badge](https://img.shields.io/badge/Update-Channel-30302f?style=flat&logo=telegram)](https://t.me/SystemerrorBD)
